@@ -1,2 +1,2 @@
-# HTML-CSS
+# merkury-landing
 Layout based on PSD template
